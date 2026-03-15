@@ -1,15 +1,15 @@
-# AI Health Protocol Advisor
+# RAG Research Synthesis schemes
 
-AI-powered system that synthesizes research-grounded health protocols
-and generates personalized protocol options based on user goals and health inputs.
+AI-powered system that synthesizes research-grounded information
+and generates output options based on alignment with multivariable criteria.
 
 ## Goals
-Build a system that helps people explore evidence-backed health protocols
-for improving sleep, reducing stress, and increasing energy.
+Build a system that helps people explore complex information for improving
+various human outcomes given specific value criteria and goals.
 
 ## Core Capabilities
-- ingest health protocol corpus
+- ingest primary corpus
 - retrieve relevant evidence
-- generate protocol plans
+- generate potential result sets
 - detect conflicts and risks
-- present structured protocol guidance
+- present structured output and guidance
