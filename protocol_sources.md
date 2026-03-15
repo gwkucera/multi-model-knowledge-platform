@@ -1,7 +1,6 @@
 # Protocol Sources
 
-Huberman Lab protocols
-Sleep research papers
-Supplement research
-Exercise and recovery protocols
-Stress reduction protocols
+National Databases
+Large Private databases that are publicly available
+Credible private databases with permission
+Other sources with more rigourous vetting process
